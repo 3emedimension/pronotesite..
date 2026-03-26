@@ -69,7 +69,7 @@ PAGE = """
 <body>
   <div class='card'>
     <div class='icon'>🔗</div>
-    <h1>Renote a changé d'adresse !</h1>
+    <h1>Pronote a changé de nom et de URL! c'est maintenant Renote!</h1>
     <p>
       Rien ne change pour toi — même site, mêmes identifiants, même contenu.<br>
       Mets à jour ton favori avec la nouvelle adresse :
